@@ -22,27 +22,32 @@
             android:text="Silahkan isi data pribadi anda!"/>
 
         <EditText
+            android:id="@+id/edit_text_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Nama Lengkap"/>
 
         <EditText
+            android:id="@+id/edit_text_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Username"/>
 
         <EditText
+            android:id="@+id/edit_text_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Alamat"/>
 
         <EditText
+            android:id="@+id/edit_text_4"
             android:layout_width="match_parent"
             android:inputType="textPassword"
             android:layout_height="wrap_content"
             android:hint="Kata Sandi"/>
 
         <EditText
+            android:id="@+id/edit_text_5"
             android:layout_width="match_parent"
             android:inputType="textPassword"
             android:layout_height="wrap_content"

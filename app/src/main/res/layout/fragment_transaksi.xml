@@ -47,6 +47,7 @@
             android:text="Pilih Obat"/>
 
         <EditText
+            android:id="@+id/pilih_obat_edit_text"
             android:layout_width="match_parent"
             android:layout_marginBottom="20dp"
             android:layout_height="wrap_content"/>
@@ -57,6 +58,7 @@
             android:text="Pilih Jenis Obat"/>
 
         <EditText
+            android:id="@+id/pilih_jenis_obat_edit_text"
             android:layout_width="match_parent"
             android:layout_marginBottom="20dp"
             android:layout_height="wrap_content"/>

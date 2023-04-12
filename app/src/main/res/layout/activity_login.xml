@@ -30,11 +30,13 @@
         android:textColor="#000"/>
 
     <EditText
+        android:id="@+id/username_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Username"/>
 
     <EditText
+        android:id="@+id/password_edit_text"
         android:layout_width="match_parent"
         android:inputType="textPassword"
         android:layout_height="wrap_content"
